@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Builder",
+  "description": "Upload any document to automatically generate a structured meeting agenda with a timeline view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
